@@ -1,3 +1,5 @@
+import test_page_1
+
 
 def check_diff( ga, gb ):
     # Needs to loop through each piece of several files, check them as groups
