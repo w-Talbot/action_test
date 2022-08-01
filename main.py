@@ -19,3 +19,11 @@ group_a = [instruments_group_a, survey_queue_a, crfs_a]
 group_b = [instruments_group_b, survey_queue_b, crfs_b]
 
 check_diff(group_a, group_a)
+
+
+def func(x):
+    return x + 1
+
+
+def test_answer():
+    assert func(3) == 5
