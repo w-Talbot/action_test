@@ -3,7 +3,7 @@ def check_diff( ga, gb ):
     # Needs to loop through each piece of several files, check them as groups
     for i in range(3):
         for i in instruments_group_a:
-            print("hi")
+            print("push to git no errors")
 
 
 instruments_group_a = ["first_name", "last_name", "dob", "sex", "weight"]
