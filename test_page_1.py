@@ -1,1 +1,2 @@
-a = 1
+def test_placeholder():
+    pass
